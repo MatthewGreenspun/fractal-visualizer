@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  height: 100vh;
+  padding: 0;
+}
+#canvas {
+  border: 1px solid hsl(221, 100%, 50%);
+  border-radius: 4px;
+}
+
+form {
+  max-width: 500px;
+}
